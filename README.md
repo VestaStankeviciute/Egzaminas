@@ -23,7 +23,7 @@ Programa susideda iš **dviejų dalių**:
 
 ---
 
-## 🔹 Prisijungimo duomenys
+##  Prisijungimo duomenys
 
 ### Administratoriaus paskyra
 - **Vartotojo vardas:** `admin`  
