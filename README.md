@@ -33,3 +33,7 @@ Programa susideda iš **dviejų dalių**:
 - **Vartotojo vardas:** `user`  
 - **Slaptažodis:** `user123`  
 
+
+## Autorė
+
+**Vesta Stankevičiūtė 3JS-2 grupė
