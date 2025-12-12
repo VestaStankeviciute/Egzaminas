@@ -36,4 +36,4 @@ Programa susideda iš **dviejų dalių**:
 
 ## Autorė
 
-**Vesta Stankevičiūtė 3JS-2 grupė
+Vesta Stankevičiūtė 3JS-2 grupė
